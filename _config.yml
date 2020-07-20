@@ -1,4 +1,2 @@
-theme: jekyll-theme-time-machine
-
 plugins:
   - jekyll-redirect-from
